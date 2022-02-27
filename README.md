@@ -1,4 +1,4 @@
-# You can open the website this url https://canlhan.github.io/reactproject/
+# You can open the website this URL https://canlhan.github.io/reactproject/
 
 # Getting Started with Create React App
 
